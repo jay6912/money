@@ -15,10 +15,14 @@
 </dir>
   
 <dir>
-    <title>https://raw.githubusercontent.com/jay6912/money/master/anim%20movies.xml</title>
+    <title>Black</title>
     <link>https://raw.githubusercontent.com/jay6912/money/master/black%201%20play.xml</link>
 </dir>
- 
+ <dir>
+    <title>Anim</title>
+    <link>https://raw.githubusercontent.com/jay6912/money/master/anim%20movies.xml</link>
+</dir>
+
 <dir>
     <title>cams</title>
     <link>https://raw.githubusercontent.com/jay6912/money/master/cams.xml</link>
