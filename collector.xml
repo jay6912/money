@@ -1,7 +1,7 @@
 
 <dir>
    <title>Movies</title>
-   <link>https://raw.githubusercontent.com/ontop12/tom/master/t%201%20%20movies.xml</link>
+   <link>https://raw.githubusercontent.com/jay6912/money/master/collector%20movies.xml</link>
 </dir>
 
 <dir>
@@ -32,12 +32,12 @@
 
 </xml>
 <plugin>
-    <name>Settings</name>
+    <name>Search</name>
     <link>plugin://plugin.video.collector/?action=search</link>
     <thumbnail></thumbnail>
 </plugin>
 <plugin>
-    <name>Search</name>
+    <name>Settings</name>
     <link>plugin://plugin.video.collector/?action=openSettings</link>
     <thumbnail></thumbnail>
 </plugin>
